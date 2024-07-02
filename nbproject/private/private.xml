@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/ExamenJavaBiblioGestion.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/EmployeVue.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/EmpruntControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Fournisseurs.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/EvenementVue.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/FournisseurVue.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Employes.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/SectionVue.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/LivreVues.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/PersonneVues.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/LivreControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Utilisateurs.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/UtilisateurVues.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/PersonneControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/FactureVues.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/SectionControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Sections.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/EmpruntVues.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Partenaires.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Factures.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Evenements.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/views/PartenaireVues.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/EmployeControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/EvenementControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/livres.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Personnes.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/UtilisateurControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/PartenaireControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/FactureControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/controllers/FournisseurControleur.java</file>
+            <file>file:/C:/Users/Anniella%20Lelou/Documents/NetBeansProjects/ExamenJavaBiblioGestion/src/examenjavabibliogestion/models/Emprunts.java</file>
+        </group>
+    </open-files>
+</project-private>
